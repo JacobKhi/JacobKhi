@@ -1,6 +1,6 @@
 # Gustavo Jacob
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor de Sistemas`**
 
 Sou estudante de Sistemas de Informação no IFF, com foco em Java (Spring Boot) e MySQL.  
 Tenho interesse em diversas áreas da tecnologia e estou constantemente aprendendo novas ferramentas e frameworks.
