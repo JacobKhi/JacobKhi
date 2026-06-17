@@ -5,7 +5,7 @@
 Sou estudante de Sistemas de Informação no IFF.  
 Tenho interesse em diversas áreas da tecnologia e estou constantemente aprendendo novas ferramentas e frameworks.
 
-Atualmente, venho desenvolvendo projetos no ecossistema node, e tenho conhecimentos sobre banco de dados, fundamentos basicos de segurança, ci/cd, infraestruturra, entre outros. 
+Atualmente, venho desenvolvendo projetos no ecossistema node, e tenho conhecimentos sobre banco de dados, fundamentos basicos de segurança, ci/cd, infraestrutura, entre outros. 
 
 ---
 
